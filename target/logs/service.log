@@ -1,0 +1,694 @@
+2020-07-26 12:19:35.342 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-26 12:19:41.591 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-26 12:19:47.695 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-26 12:19:52.913 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-26 12:20:52.720 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-26 12:21:02.888 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-07-26 12:21:11.050 [main] INFO  pages.RedBusHomePage -
+                    View Seat clicked
+2020-07-26 12:29:49.091 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-26 12:29:50.540 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-26 12:29:51.346 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-26 12:29:51.518 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-26 12:29:52.843 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-26 12:29:58.332 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-07-26 12:30:01.822 [main] INFO  pages.RedBusHomePage -
+                    View Seat clicked
+2020-07-27 00:10:09.855 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 00:10:11.182 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 00:10:11.946 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-27 00:10:12.119 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 00:10:16.314 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 00:10:21.815 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-07-27 00:10:25.320 [main] INFO  pages.RedBusHomePage -
+                    View Seat clicked
+2020-07-27 00:17:43.610 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 00:17:44.965 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 00:17:45.390 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-27 00:19:39.490 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 00:19:41.372 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 00:19:42.146 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-27 00:19:42.290 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 00:19:45.875 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 00:19:51.421 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-07-27 00:19:55.015 [main] INFO  pages.RedBusHomePage -
+                    View Seat clicked
+2020-07-27 00:32:05.195 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 00:32:06.547 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 00:32:07.333 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-27 00:32:07.501 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 00:32:08.967 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 00:35:41.133 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 00:35:42.508 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 00:35:42.899 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-27 00:36:41.525 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 00:36:43.502 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 00:36:44.251 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-27 00:36:44.411 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 00:36:45.971 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 00:36:58.992 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-27 21:50:38.938 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 21:50:40.294 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 21:50:41.111 [main] INFO  pages.RedBusHomePage -
+                    Entering Amritsar to dropdown
+2020-07-27 21:50:41.303 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 21:50:42.880 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 21:50:55.887 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-27 22:34:54.006 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 22:34:55.295 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 22:34:55.984 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-27 22:34:56.160 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 22:34:57.548 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 22:35:10.584 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-27 22:35:10.721 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-27 22:37:12.696 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 22:37:13.989 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 22:37:14.746 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-27 22:37:14.898 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 22:37:16.327 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 22:37:29.335 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-27 22:41:35.994 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 22:41:37.403 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 22:41:38.101 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-27 22:41:38.253 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 22:41:39.635 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 22:41:52.660 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-27 22:52:52.855 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-27 22:52:54.565 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-27 22:52:55.233 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-27 22:52:55.393 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-27 22:53:01.706 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-27 22:53:14.710 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-27 22:53:16.085 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-07-28 14:23:25.988 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-28 14:23:27.304 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-28 14:23:28.002 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-28 14:23:28.153 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-28 14:23:29.567 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-28 14:23:42.621 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-28 14:23:42.706 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-07-28 14:23:53.557 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-07-28 14:25:23.043 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-28 14:25:24.631 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-28 14:25:25.404 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-28 14:25:25.629 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-28 14:25:27.508 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-28 14:25:40.549 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-28 14:25:40.618 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-07-28 14:25:51.440 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-07-28 14:26:19.595 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-28 14:26:20.981 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-28 14:26:24.237 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-28 14:26:25.215 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-07-28 14:28:22.303 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-28 14:28:23.422 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-28 14:28:24.075 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-28 14:28:24.207 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-28 14:28:27.504 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-28 14:28:32.506 [main] INFO  pages.RedBusHomePage -
+                    Error message on no bus found
+2020-07-28 14:28:43.732 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-07-28 14:30:15.133 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-28 14:30:17.389 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-28 14:30:18.086 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-28 14:30:18.233 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-28 14:30:21.864 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-28 14:30:27.100 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-07-28 14:30:30.101 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-07-28 14:30:31.396 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-07-28 14:39:26.775 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-28 14:39:27.853 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-28 14:39:28.533 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-28 14:39:28.664 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-07-28 14:39:31.711 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-07-28 14:39:36.972 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-07-28 14:39:39.972 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-07-28 14:39:40.051 [main] INFO  pages.RedBusHomePage -
+                    Return To City mentioned in text
+2020-07-28 14:39:41.475 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-07-28 14:42:29.465 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-07-28 14:42:31.015 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-07-28 14:42:31.420 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-07-28 14:42:32.638 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-01 15:43:54.660 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 15:44:01.358 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:44:01.382 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-01 15:44:03.926 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-01 15:44:05.163 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-01 15:44:05.474 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-01 15:44:08.470 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-01 15:44:14.122 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-01 15:44:17.127 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-01 15:44:17.265 [main] INFO  pages.RedBusHomePage -
+                    Return To City mentioned in text
+2020-08-01 15:44:20.821 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:44:20.832 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-01 15:49:00.404 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 15:49:07.069 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:49:07.093 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-01 15:49:09.616 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-01 15:49:10.828 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-01 15:49:11.179 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-01 15:49:18.093 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-01 15:49:23.549 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-01 15:49:26.556 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-01 15:49:26.663 [main] INFO  pages.RedBusHomePage -
+                    Return To City mentioned in text
+2020-08-01 15:49:29.116 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:49:29.120 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-01 15:49:41.204 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 15:49:49.014 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:52:06.548 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 15:52:13.161 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:52:13.195 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-01 15:52:15.662 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-01 15:52:16.855 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-01 15:52:17.243 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-01 15:52:23.805 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-01 15:52:29.384 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-01 15:52:32.388 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-01 15:52:32.503 [main] INFO  pages.RedBusHomePage -
+                    Return To City mentioned in text
+2020-08-01 15:52:35.161 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:52:35.172 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-01 15:52:47.445 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 15:52:55.313 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 15:53:12.651 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 15:53:20.435 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 22:44:41.307 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 22:46:17.219 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 22:46:17.247 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-01 22:46:56.894 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 22:47:08.187 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 22:47:29.276 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 22:47:38.913 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 22:52:28.784 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 22:52:35.372 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 22:52:35.398 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-01 22:52:37.944 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-01 22:52:39.508 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-01 22:52:39.874 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-01 22:52:43.043 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-01 22:52:48.371 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-01 22:52:51.374 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-01 22:53:03.795 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 22:53:03.803 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-01 22:53:16.597 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 22:53:23.928 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 22:53:43.479 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 22:53:50.930 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:01:14.143 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 23:01:21.021 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:01:21.046 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-01 23:01:24.221 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-01 23:01:25.509 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-01 23:01:25.846 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-01 23:01:55.571 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-01 23:02:00.867 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-01 23:02:03.870 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-01 23:02:03.973 [main] INFO  pages.RedBusHomePage -
+                    Return To City mentioned in text
+2020-08-01 23:02:06.813 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:02:06.825 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-01 23:02:19.565 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 23:02:28.724 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:02:46.208 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 23:02:53.274 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:06:33.093 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 23:06:41.278 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:06:41.303 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-01 23:06:44.408 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-01 23:06:45.782 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-01 23:06:46.154 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-01 23:06:51.916 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-01 23:06:57.356 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-01 23:07:00.360 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-01 23:07:00.475 [main] INFO  pages.RedBusHomePage -
+                    Return To City mentioned in text
+2020-08-01 23:07:03.585 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:07:03.585 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-01 23:07:15.703 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 23:07:23.875 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-01 23:07:41.922 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-01 23:07:52.889 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-04 21:57:37.643 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-04 21:57:41.090 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-04 21:57:41.117 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-04 21:57:42.519 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-04 21:57:43.366 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-04 21:57:43.546 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-04 21:57:47.167 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-04 21:57:52.394 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-04 21:57:55.396 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-04 21:57:55.503 [main] INFO  pages.RedBusHomePage -
+                    Return To City mentioned in text
+2020-08-04 21:57:56.902 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-04 21:57:56.906 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-04 21:58:08.049 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-04 21:58:11.122 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-04 21:58:24.663 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-04 21:58:28.061 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 21:48:53.760 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 21:48:58.937 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 21:48:58.973 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-05 21:49:00.789 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-05 21:49:01.718 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-05 21:49:01.979 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-05 21:49:05.454 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-05 21:49:10.635 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-05 21:49:13.635 [main] INFO  pages.RedBusHomePage -
+                    Return From City mentioned in text
+2020-08-05 21:49:30.290 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 21:49:30.293 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-05 21:49:42.906 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 21:49:45.911 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 21:50:04.488 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 21:50:08.569 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:18:32.963 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:18:37.478 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:18:37.506 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-05 23:18:38.872 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-05 23:18:39.573 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-05 23:18:39.755 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-05 23:18:42.188 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-05 23:18:57.260 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-05 23:19:01.622 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:19:01.630 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-05 23:19:13.114 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:19:15.714 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:19:28.036 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:19:31.732 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:25:56.088 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:25:59.267 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:25:59.293 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-05 23:26:00.602 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-05 23:26:01.352 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-05 23:26:01.547 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-05 23:26:03.977 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-05 23:26:19.012 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-05 23:26:23.299 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:26:23.307 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-05 23:26:39.226 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:26:42.444 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:27:04.239 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:27:07.524 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:42:46.170 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:42:50.335 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:42:50.367 [main] INFO  tests.RedBusHomePageTest -
+                    Book Ticket for RedBus
+2020-08-05 23:42:51.716 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-05 23:42:52.532 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-05 23:42:52.715 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-05 23:42:55.170 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-05 23:43:10.234 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-05 23:43:14.736 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:43:14.744 [main] INFO  tests.RedBusHomePageTest -
+                    Get RedBus home page title
+2020-08-05 23:43:14.746 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-05 23:43:31.150 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:43:35.045 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:43:35.051 [main] INFO  tests.RedBusHomePageTest -
+                    Rpool test page clicktab 
+2020-08-05 23:43:53.626 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-05 23:43:57.451 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-05 23:43:57.463 [main] INFO  tests.RedBusHomePageTest -
+                    Book ticket for RedBus pilgrimage
+2020-08-06 21:36:10.221 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-06 21:36:13.762 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-06 21:36:13.791 [main] INFO  tests.RedBusHomePageTest -
+                    Running test case Book Ticket for RedBus
+2020-08-06 21:36:21.668 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-06 21:36:29.421 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-06 21:36:34.630 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-06 21:36:44.365 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-06 21:36:54.531 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-06 21:37:08.965 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-06 21:37:08.972 [main] INFO  tests.RedBusHomePageTest -
+                    Running testcase Get RedBus home page title
+2020-08-06 21:37:08.973 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-06 21:37:24.778 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-06 21:37:33.733 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-06 21:37:33.741 [main] INFO  tests.RedBusHomePageTest -
+                    Running testcase Rpool test page clicktab 
+2020-08-06 21:38:01.640 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-06 21:38:08.570 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-06 21:38:08.576 [main] INFO  tests.RedBusHomePageTest -
+                    Book ticket for RedBus pilgrimage
+2020-08-07 16:22:38.103 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-07 16:22:41.182 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 16:22:41.209 [main] INFO  tests.RedBusHomePageTest -
+                    Running test case Book Ticket for RedBus
+2020-08-07 16:22:42.454 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-07 16:22:43.148 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-07 16:22:43.285 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-07 16:22:46.285 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-07 16:22:51.529 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-07 16:22:55.831 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 16:22:55.834 [main] INFO  tests.RedBusHomePageTest -
+                    Running testcase Get RedBus home page title
+2020-08-07 16:22:55.834 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-07 16:23:13.195 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-07 16:23:16.608 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 16:23:16.611 [main] INFO  tests.RedBusHomePageTest -
+                    Running testcase Rpool test page clicktab 
+2020-08-07 16:23:35.148 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-07 16:23:37.723 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 16:23:37.727 [main] INFO  tests.RedBusHomePageTest -
+                    Book ticket for RedBus pilgrimage
+2020-08-07 17:18:29.544 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-07 17:18:32.856 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 17:18:32.880 [main] INFO  tests.RedBusHomePageTest -
+                    Running test case Book Ticket for RedBus
+2020-08-07 17:18:34.066 [main] INFO  pages.RedBusHomePage -
+                    Entering Kash in From dropdown
+2020-08-07 17:18:34.720 [main] INFO  pages.RedBusHomePage -
+                    Entering Dehradun to dropdown
+2020-08-07 17:18:34.882 [main] INFO  pages.RedBusHomePage -
+                    Entering todays date
+2020-08-07 17:18:38.964 [main] INFO  pages.RedBusHomePage -
+                    Clicking on Search Button
+2020-08-07 17:18:44.229 [main] INFO  pages.RedBusHomePage -
+                    Safety popup clicked
+2020-08-07 17:18:48.552 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 17:18:48.558 [main] INFO  tests.RedBusHomePageTest -
+                    Running testcase Get RedBus home page title
+2020-08-07 17:18:48.559 [main] INFO  pages.RedBusHomePage -
+                    Home page title
+2020-08-07 17:19:09.810 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-07 17:19:13.435 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 17:19:27.429 [main] INFO  initiateTests.initClass -
+                    creating object of classes
+2020-08-07 17:19:31.798 [main] INFO  initiateTests.initClass -
+                    Loading RedBUS Home page URL
+2020-08-07 17:19:31.801 [main] INFO  tests.RedBusHomePageTest -
+                    Book ticket for RedBus pilgrimage

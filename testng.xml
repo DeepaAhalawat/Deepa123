@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name = "reporting.ListenersImplementation"/>
+ </listeners>
+  <test thread-count="5" name="redbus">
+    <classes>
+      <class name="tests.RedBusHomePageTest"/>
+      <class name="tests.RPoolTest"/>
+      <class name="tests.PilTest"/>
+    </classes>
+  </test> <!-- redbus -->
+</suite> <!-- Suite -->

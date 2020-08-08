@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="reporting.ListenersImplementation"/>
+  </listeners>
+  <test thread-count="5" name="redbus(failed)">
+    <classes>
+      <class name="tests.RPoolTest">
+        <methods>
+          <include name="launchURL"/>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="clickRPoolNewTab"/>
+        </methods>
+      </class> <!-- tests.RPoolTest -->
+      <class name="tests.RedBusHomePageTest">
+        <methods>
+          <include name="launchURL"/>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="getTitleHomePage"/>
+        </methods>
+      </class> <!-- tests.RedBusHomePageTest -->
+    </classes>
+  </test> <!-- redbus(failed) -->
+</suite> <!-- Failed suite [Suite] -->
