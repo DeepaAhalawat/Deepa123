@@ -55,7 +55,7 @@ public class RedBusHomePageTest extends initClass {
 	{
 		LOGGER.info("Running testcase Get RedBus home page title");	
 	String title=homePage.getTitle();
-    Assert.assertEquals(title, "Book Bus Travels, AC Volvo Bus, rPool & Bus Hire - redBus IndiaS");
+    Assert.assertEquals(title, "Book Bus Travels, AC Volvo Bus, rPool & Bus Hire - redBus India");
 	System.out.println("HomePageTitle "+title);
 	    
 	Takescreenshot.takescreen("getTitleHomePage");

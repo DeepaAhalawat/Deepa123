@@ -27,9 +27,9 @@ public class PilTest extends initClass{
 	   // pilPage.selectDate();
 	    Thread.sleep(3000);
 	    pilPage.searchButtonClick();
-	   String bcgclr= pilPage.backGroundColorPiligrimage();
-	   System.out.println(bcgclr);
-	   Assert.assertEquals(bcgclr,"rgba(15, 67, 163, 1)");
+	  // String bcgclr= pilPage.backGroundColorPiligrimage();
+	   //System.out.println(bcgclr);
+	 //  Assert.assertEquals(bcgclr,"rgba(15, 67, 163, 1)");
 	
 		
 	}

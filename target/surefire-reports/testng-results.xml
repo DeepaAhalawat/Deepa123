@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="94614" started-at="2020-08-08T18:51:02Z" finished-at="2020-08-08T18:52:36Z">
+    <groups>
+    </groups>
+    <test name="redbus" duration-ms="94614" started-at="2020-08-08T18:51:02Z" finished-at="2020-08-08T18:52:36Z">
+      <class name="tests.RPoolTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:tests.RPoolTest@272113c4]" name="launchBrowser" is-config="true" duration-ms="9778" started-at="2020-08-08T18:51:40Z" finished-at="2020-08-08T18:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:tests.RPoolTest@272113c4]" name="launchURL" is-config="true" duration-ms="4082" started-at="2020-08-08T18:51:49Z" finished-at="2020-08-08T18:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="clickRPoolNewTab()[pri:0, instance:tests.RPoolTest@272113c4]" name="clickRPoolNewTab" duration-ms="3548" started-at="2020-08-08T18:51:53Z" finished-at="2020-08-08T18:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRPoolNewTab -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:tests.RPoolTest@272113c4]" name="closeBrowser" is-config="true" duration-ms="313" started-at="2020-08-08T18:51:57Z" finished-at="2020-08-08T18:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.RPoolTest -->
+      <class name="tests.RedBusHomePageTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:tests.RedBusHomePageTest@783a467b]" name="launchBrowser" is-config="true" duration-ms="10987" started-at="2020-08-08T18:51:02Z" finished-at="2020-08-08T18:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:tests.RedBusHomePageTest@783a467b]" name="launchURL" is-config="true" duration-ms="3358" started-at="2020-08-08T18:51:13Z" finished-at="2020-08-08T18:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="bookTicketforRedBus()[pri:0, instance:tests.RedBusHomePageTest@783a467b]" name="bookTicketforRedBus" duration-ms="16198" started-at="2020-08-08T18:51:16Z" finished-at="2020-08-08T18:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketforRedBus -->
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:tests.RedBusHomePageTest@783a467b]" name="launchURL" is-config="true" duration-ms="978" started-at="2020-08-08T18:51:32Z" finished-at="2020-08-08T18:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="getTitleHomePage()[pri:0, instance:tests.RedBusHomePageTest@783a467b]" name="getTitleHomePage" duration-ms="1703" started-at="2020-08-08T18:51:33Z" finished-at="2020-08-08T18:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleHomePage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:tests.RedBusHomePageTest@783a467b]" name="closeBrowser" is-config="true" duration-ms="4747" started-at="2020-08-08T18:51:35Z" finished-at="2020-08-08T18:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.RedBusHomePageTest -->
+      <class name="tests.PilTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:tests.PilTest@73e9cf30]" name="launchBrowser" is-config="true" duration-ms="9721" started-at="2020-08-08T18:51:57Z" finished-at="2020-08-08T18:52:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:tests.PilTest@73e9cf30]" name="launchURL" is-config="true" duration-ms="3420" started-at="2020-08-08T18:52:07Z" finished-at="2020-08-08T18:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="bookTicketForRedBusPil()[pri:0, instance:tests.PilTest@73e9cf30]" name="bookTicketForRedBusPil" duration-ms="21426" started-at="2020-08-08T18:52:10Z" finished-at="2020-08-08T18:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketForRedBusPil -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:tests.PilTest@73e9cf30]" name="closeBrowser" is-config="true" duration-ms="4299" started-at="2020-08-08T18:52:32Z" finished-at="2020-08-08T18:52:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.PilTest -->
+    </test> <!-- redbus -->
+  </suite> <!-- Suite -->
+</testng-results>

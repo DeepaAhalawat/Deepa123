@@ -19,9 +19,10 @@ public class WebdriverLaunch {
 	public static WebDriver getWindowDriver() throws IOException
 	{
 		
-       String browserVariable=PropertyFileManager.getPropertyValue("config", "browser");
+       //String browserVariable=PropertyFileManager.getPropertyValue("config", "browser");
+       String browserVariable = System.getenv("browserName");
 		
-		if (browserVariable.equalsIgnoreCase("Chrome"))
+		if (browserVariable.equalsIgnoreCase("chrome"))
 		{
 	    ChromeOptions opt= new ChromeOptions();
 	    opt.addArguments("--disable-notifications");
